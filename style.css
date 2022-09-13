@@ -1,3 +1,6 @@
 body{background-color:E1FFEE;}
 h1{color:#7FBCD2;}
 h3{color:#A5F1E9;}
+hr{border:dotted none none;
+  size:1px;
+  border-color:white;}
